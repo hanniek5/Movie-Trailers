@@ -1,8 +1,8 @@
 # Movie-Trailers
 
-ud036_StarterCode
+"ud036_StarterCode
 
-Source code for a Movie Trailer website.
+Source code for a Movie Trailer website." - fresh_tomatoes.py
 
 First, whenever you have entered and see the Movie-Trailers repository, there is a green button on the right that says
 "Clone or Download."
